@@ -1,0 +1,140 @@
+[OCR 결과]
+D음
+Python(작업 영역)
+main Py 4 X
+{} ocr_resultsjson
+2024_07_25_02_01_15.json
+ocr_2024_07_:
+당썩기
+t5 py
+ocr_process py
+OCr _
+Python
+Smarcle > PythonWeek
+Notion > example
+얼려 있는 편리기
+main py >
+[4E 0 턱
+# mainpy
+PYTHON(작업 영의)
+1
+Python
+import time
+2
+Smarcle
+import threading
+PythonWeek
+3
+LeeWind
+import queue
+4
+example
+import sys
+5
+srC
+lib
+6
+screen
+syspath.append(
+IUserslapplelDesktoplPython/SmarclelPythonlleek/Notion/iib
+7
+)
+README md
+requirements txt
+8
+Notion
+from display_info import select_display
+9
+asset
+process import take_screenshot
+json
+from
+screenshot
+10
+2024_07_28_15_26_49.json
+process import extract_text
+from_image
+11
+from
+ocr
+ocr_results json
+screenshots
+import analyze_screenshot
+12
+from analyze
+texts
+13
+포트
+example
+main py
+터미년
+문제
+직련 모니터
+구석
+D
+포드
+GITLENS
+Code
+Python
+search
+main py
+screen_highlight_main py
+python
+search
+IUserslapplelDesktoplPython/SmarclelPythonlleeklNotionlexamplelmain py
+-U
+screen_main py
+(conda)
+search
+(base)
+Heonseong
+~IDesktoplPython
+main
+tempCodeRunnerFile Py
+IUserslapplelDesktoplPython/SmarclelPythonleek/Notion/examplelmain.py'
+python
+-U
+lib
+ID: 0, Width: 1440,
+Height:
+900,
+X:
+0,
+Y:
+0
+the display
+_pycache
+Select
+ID
+capture:
+to
+Starting in
+analyze py
+1 seconds
+display_info py
+Starting screenshot capture.
+되돌아 칼 시간을 입력해주세요: [
+process py
+OCr
+screenshot_process py
+search
+process py
+tempcodeRunnerFile py
+Version
+VERSION13 py
+LIVE SHARE: SESSION DETAILs
+8 main'
+8
+군6 일 1
+공백: 4
+LF
+3.11.9 ('conda': conda)
+Go Live
+301 61
+9s Launchpad
+0 4 6
+'A" 0
+승 Live Share
+UTF-8
+Python
+Prettier

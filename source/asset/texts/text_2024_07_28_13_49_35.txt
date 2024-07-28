@@ -1,0 +1,150 @@
+[OCR 결과]
+'D음
+>
+9 Python(작업 영역)
+당썩기
+main Py
+Python
+PythonWeek
+얼려 있는 편리기
+Notion
+lib >
+Smarcle
+main py
+main
+PYTHON(작업 영의)
+from display_info import select_display
+Python
+from screenshot_process import take_screenshot
+Github
+8
+yolov5s pt
+from_image
+import extract_text
+from
+ocr_process
+one
+9
+yolovgn pt
+from analyze_one
+import analyze_screenshot
+yolov8s pt
+10
+yolovgx pt
+11
+Smarcle
+Ic
+Kaggle
+def main():
+12
+MakersDay
+display
+select_display
+13
+PythonWeek
+screenshot_queue
+사진자료
+14
+queue.Queue
+테스트파일
+processed_queue
+15
+queueQueue
+LeeWind
+screenshot_List
+asset
+16
+[]
+example
+17
+srC
+README md
+# 5초 대기 후 스크린사 촬영
+시작
+18
+requirements txt
+in range(5,
+19
+for
+0,
+-1) :
+1
+Notion
+sys.stdout.writelf"IrStarting in {i}
+20
+seconds .
+asset
+json
+sysstdout.flush()
+21
+ocr_results json
+screenshots
+'
+D
+떼
+구석
+X
+터미년
+문제
+직련 모니터
++ "
+하다
+GITLENS
+Python
+Python
+texts
+lib
+IUserslapplelDesktoplPython/.condalbinlpython /UserslapplelDesktoplPython/Smarci
+_pycache
+elPythonkeek/Notion/liblmain py
+analyze
+one py
+conda)
+(base)
+~IDesktoplPython
+Heonseong
+main
+analyze py
+condalbinlpython /Userslapple/DesktoplPython/SmarclelPythonlleek/Notion/
+IUserslapplelDesktoplPythonl
+display_info py
+1iblmain py
+main py
+ID: 0,
+Width: 1440,
+Height: 900,
+X:
+Y:
+0,
+0
+process_one py
+OCr
+to capture:
+Select the display ID
+0
+ocr_process py
+Starting
+in
+1 seconds
+screenshot_process py
+Starting
+screenshot
+capture
+Version
+되돌아 칼 시간을 입력해주세요:
+LIVE SHARE: SESSION DETAILS
+8 main'
+8
+969 Launchpad
+승 Live Share
+군 13 일 31
+공백: 4
+LF
+Python
+3.11.9 ('conda': conda)
+Go Live
+0L 61
+0 4 1
+'A" 0
+UTF-8
+Prettier'
