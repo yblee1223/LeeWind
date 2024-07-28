@@ -89,7 +89,7 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("LeeWind")
         self.showFullScreen()
 
-        self.background = QPixmap("data/img/Screenshot 2024-07-25 at 11.32.41 PM.png")  # 이미지 파일 경로를 지정하세요
+        self.background = QPixmap("/Users/iyongbin/Repository/LeeWind/data/screenshots/screenshot_2024_07_25_01_23_59.png")  # 이미지 파일 경로를 지정하세요
 
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
@@ -174,8 +174,7 @@ class MainWindow(QMainWindow):
     
     def onSearch(self, text):
         print(f"Searching for: {text}")
-    
-    def 
+
 
 
 if __name__ == '__main__':

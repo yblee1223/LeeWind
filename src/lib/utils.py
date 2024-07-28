@@ -1,4 +1,6 @@
 import subprocess
+import time
+import os
 
 def get_active_window_info():
     apple_script = '''
@@ -21,6 +23,6 @@ def get_active_window_info():
     result = result.stdout.strip().split(",")[0]
     return result
 
-if __name__ == "__main__":
-    window_title = get_active_window_info()
-    print(window_title)
+def get_filename() -> str:
+    file_name = time.strftime("%Y_%m_%d_%H_%M_%S")
+    return file_name
