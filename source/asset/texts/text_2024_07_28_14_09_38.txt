@@ -1,0 +1,145 @@
+[OCR 결과]
+D음
+9 Python(작업 영역)
+0J ocr_results json
+당썩기
+main Py
+analyze py
+ocr_process py
+Python
+PythonWeek
+얼려 있는 편리기
+Smarcle
+Notion
+lib >
+main py
+def mainl:
+PYTHON(작업 영의)
+12
+Python
+EX1LLIIY
+43
+pI L7C(
+pI UuI all .
+Smarcle
+46
+break
+Kaggle
+MakersDay
+else:
+47
+PythonWeek
+print("되돌아 칼 시간을 입력해주세요:
+end=
+48
+사진자료
+테스트파일
+except
+49
+ValueError:
+json
+print("Please enter
+a valid integer.'
+50
+OCR
+print("되돌아 칼 시간을
+입력해주세요:
+end-"")
+51
+screenshots
+texts
+except KeyboardInterrupt:
+52
+문자주출_CV이용 ipynb
+print("Exiting
+53
+analyze py
+program .
+)
+LeeWind
+54
+break
+asset
+55
+example
+src
+if
+main
+56
+name
+README md
+main()
+requirements txt
+57
+Notion
+58
+asset
+json
+ocr_results json
+D
+때
+터미년
+문제
+직협 모니터
++ "
+X
+닫로
+GITLENS
+구석
+Code
+Python
+screenshots
+texts
+join(text_List)}")
+f.write(f"[OCR 결과]In{' In'
+lib
+_pycache
+SyntaxError: f-string expression part cannot incLude
+a backslash
+analyze py
+(base)
+'DesktoplPython
+Heonseong
+(conda)
+main
+display_info py
+'IUserslapplelDesktoplPython/SmarclelPythonleek/Notion/liblmain.py'
+python
+-U
+main py
+ID: 0,
+Width: 1440,
+Height:
+900,
+X:
+Y:
+0,
+0
+ocr_process py
+to capture:
+Select the display ID
+0
+screenshot_process py
+Starting
+in
+1 seconds
+Version
+Starting screenshot capture
+VERSION13 py
+되돌아 칼 시간을 입력해주세요:
+LIVE SHARE: SESSION DETAILs
+8 main'
+8
+69 Launchpad
+'' 0
+승 Live Share
+58, 일 1
+공백: 4
+LF
+Python
+3.11.9 ('conda': conda)
+Go Live
+01 61
+0 4 0
+UTF-8
+Prettier

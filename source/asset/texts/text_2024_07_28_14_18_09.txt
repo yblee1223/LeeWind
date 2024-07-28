@@ -1,0 +1,97 @@
+[OCR 결과]
+Chrome
+파일
+수정
+보기
+방문 기료
+북마크
+프로필
+댐   창
+도움말
+7원 28일 (일) 오후 2.18
+8
+7596
+X  JaidedAlEasyOCR: Rea
+X
+X  6 새댐
+X +
+기장 최신 버전(V15. 3) : 메
+골로그관리
+TISTORY
+ChatGPT
+Mozilla-Ocholllamafile:
+9 |
+6
+쇼
+chatgpt comlcl4ef9c426-daOd-4b9c-bb15-f320c4407188
+다시 실행하여 업데이트하세요.
+> D 모든 북마크
+k Kaggle
+MPU-6050 선서 +..
+우당당당 코딩 제작소
+세중대학교 화사정보 .
+세중대학교 집현캠퍼스
+에브리타임
+ChatGPT
+Vscode
+GitHub
+Please Graduate
+Gemini
+ChatGPT 4o
+EM
+matching_timestamps
+append(timestamp
+ChatGPT
+return matching_timestamps
+Al 논문작성 도우미
+Python
+main.py
+2
+search
+88
+GPT 탄색
+이 파일은
+의 검색 기능울 실행하고 결과루 출력합니다.
+search_process
+py
+python
+h 코드 복사
+오늘
+Modular Screenshot OCR Cod
+search_main.py
+from search_process
+search_keyword_in_ocr
+import
+어제
+def main():
+QNN vs Classical Bits
+input ( "검색할   키위드틀
+입력해주세요:
+")stripl)
+keyword
+matching_timestamps
+search_keyword_in_ocr(keyword)
+지난 7입
+if matching_timestamps:
+Llamafile 및 라마 모델
+print( f"키위드
+{keyvord} '가 포함된   타임스템프들 : " )
+in matching_timestamps:
+for timestamp
+Proposed Encoding Strategy Expl
+print(timestamp)
+EasyOCR Integration Update
+etse:
+{keyword}
+print( f"키위드
+름
+하는
+결과름
+찾올 수
+없습니다 .
+줄이기 위한 LaTeX 코드
+0
+메시지 ChatGPT
+Team 위크스데이스 추가
+Team 그래에서 함께 직업하세요
+ChatGPT논 실수늘 할 수 있습니다. 중요한 정보문 확인하세요

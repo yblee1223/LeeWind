@@ -1,0 +1,152 @@
+[OCR 결과]
+D음
+9 Python(작업 영역)
+당썩기
+main Py
+search_process py
+search_main Py
+ocr_process py
+ocr_results json
+analyze py
+Python
+PythonWeek
+얼려 있는 편리기
+Smarcle
+Notion
+lib >
+main
+main py
+# main py
+PYTHON(작업 영의)
+1
+Python
+import time
+2
+Smarcle
+import threading
+PythonWeek
+3
+테스트파일
+import queue
+4
+LeeWind
+import sys
+asset
+5
+example
+Os
+6
+src
+README md
+from display_info import select_display
+requirements txt
+from screenshot_process
+import take_screenshot
+8
+Notion
+ocr_process import extract_text_from_image
+asset
+from
+9
+lib
+from analyze import analyze_screenshot
+10
+_pycache
+analyze py
+11
+display_info Py
+12
+def mainl:
+main py
+select_display
+process py
+13
+display
+OCr
+screenshot_process py
+screenshot_queue
+14
+queue. Queue
+search_main py
+search
+process py
+processed_queue
+queue.Queuel
+15
+Version
+16
+screenshot
+1is+
+5I
+VERSION13 py
+구석
+X
+터미년
+문제
+직협 모니터
++ ' .:
+screenshots
+닫로
+GITLENS
+수
+texts
+Code Python
+'IUserslapplelDesktoplPython/SmarclelPythonkleek/Notion/lib/search_main py
+python
+~U
+README md
+Python
+Python
+검색할 키워드틀 입력해 주세요:_ 이런성
+Techtalk
+키워드
+결과틀 찾을 수 없습니다 .
+이런성
+틀 포함하는
+Test
+Heonseong
+(conda)
+(base)
+~IDesktoplPython
+main +
+tpy
+'IUserslapple/DesktoplPython/SmarclelPythonleek/Notion/liblmain.py'
+python
+-U
+t2.py
+ID: 0,
+Width: 1440,
+Height:
+900,
+X:
+Y:
+0,
+0
+t3.py
+to capture:
+Select the display ID
+0
+t4.py
+Starting
+in
+1 seconds
+t5.py
+Starting screenshot capture
+tempcodeRunnerFile py
+되돌아 칼 시간을 입력해주세요:
+LIVE SHARE: SESSION DETAILs
+8 main'
+8
+승 Live Share
+군 15 일 31
+공백: 4
+LF
+Python
+3.11.9 ('conda': conda)
+Go Live
+0L 61
+9s Launchpad
+0 4 0
+'A" 0
+UTF-8
+Prettier

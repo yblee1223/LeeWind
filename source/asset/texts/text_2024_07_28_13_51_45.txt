@@ -1,0 +1,104 @@
+[OCR 결과]
+'D
+D ( $
+8 어)
+영
+Whale
+파일
+수정
+보기
+방문 기료
+북마크
+프로필
+댐
+창
+도움말
+
+Q
+8196
+D)
+PyTorch 코드 수정
+세청대화교 무덤
+chatgptcom PyTorch 코드 수정
+0 | 쇼
+세중대학교 사회
+학습
+소핑
+대학
+메일
+카카오면
+Explore GPTs
+에다
+YouTube
+파파고
+ChatGPT
+ChatGPT
+time mktime(time.strptimeltimestamp ,
+screenshot_time
+"gY %m 끓d 올 % 용S"
+if screenshot_time
+target_time:
+<
+88
+GPT 탄색
+Image . open(screenshot_path)
+image
+# 스크그린사   이미지 열기
+image. show()
+# 스크린사올   화면에
+표시
+어제
+os .path.join(text_save_folder, f"text_{timestamp}.txt
+text_file_path
+PyTorch 코드 수정
+encoding="utf-8" )
+Vith open(text_fite_path ,
+as f:
+"F"
+f.read()
+text_content
+#텍스트 파일 위기
+지난 7일
+# print(f"{text_content}")
+#OCR 결과 주석 처리
+새 채팅
+'비동기적으로 요약  작업음
+수행
+지난 30입
+threading Thread(target-summarize_and_print, args=(te;
+summary_thread
+summary_threadstartl)
+Speed Up Object Detection
+summary_threadjoin()
+#요약이 완료되  때까지 대기
+Image Processing Utility Functior
+# 분석 완료 후 함수 종료
+return
+Git 추가 및 푸시
+Fire Facility Types
+print(f"No
+screenshot
+found for
+{N} seconds ago.
+# 해당 시간 이전의
+스크린사이 없는
+Format Specifiers Explanation
+summarize_and_print(text_content)
+def
+Python Format Strings
+요약하고   솔력합니다 .
+주어진
+텍스트클
+Executive Member Application Mc
+Hand Tracking with CSV
+summarize_with_LLama
+content)
+#텍스트 요약
+summary
+oO:
+a어)
+0
+메시지 ChatGPT
+플랜 업그레이드
+GPT-4 DALL E 등음 이용해 보세요
+ChatGPT는 실수금 학수 있습니다;중요한 정보금 확인하세요'

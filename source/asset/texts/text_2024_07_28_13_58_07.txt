@@ -1,0 +1,147 @@
+[OCR 결과]
+'9 Python(작업 영역)
+D음
+0J ocr_results json
+당썩기
+main Py
+ocr_process py
+analyze py
+Python
+PythonWeek
+얼려 있는 편리기
+Smarcle
+Notion
+lib >
+main py
+# main py
+PYTHON(작업 영의)
+1
+Python
+import time
+2
+Smarcle
+import threading
+PythonWeek
+3
+LeeWind
+import queue
+4
+Notion
+asset
+import sys
+5
+json
+Ic
+6
+ocr_results json
+screenshots
+from display_info import select_display
+7
+texts
+from screenshot_process
+import take_screenshot
+8
+lib
+_pycache
+process import extract_text_from_image
+from
+9
+ocr
+analyze py
+from analyze import analyze_screenshot
+10
+display_info py
+main py
+11
+ocr
+process py
+12
+def mainl:
+screenshot_process py
+Version
+select_display
+13
+display
+VERSION13 py
+screenshot_queue
+14
+queue.Queue
+screenshots
+texts
+processed_queue
+15
+queue.Queue
+README md
+16
+screenshot
+1is+
+5I
+Techtalk
+D
+때때
+주석
++
+Test
+터미년
+문제
+직협 모니터
+X
+닫로
+GITLENS
+Code
+Python
+tpy
+python
+'IUserslapple/DesktoplPython/SmarclelPythonlleeklNotion/tiblmain py
+-U
+t2.py
+(conda)
+(base)
+Heonseong
+~IDesktoplPython
+main
+t3.py
+python
+IUserslapple/DesktoplPython/SmarclelPythonweek/Notion/liblmain py
+t4 py
+~U
+Width:
+ID:
+0,
+1440,
+Height:
+900,
+X:
+0,
+Y:
+0
+t5.py
+the display
+Select
+ID to capture:
+0
+tempcodeRunnerFile py
+Starting
+in
+1 seconds .
+bbox png
+Starting screenshot capture.
+Operatorjpg
+되돌아 갈 시간을 입력해주세요: |
+Python code-workspace
+LIVE SHARE: SESSION DETAILS
+8 main'
+8
+96 Launchpad
+군 10 일 6
+공백: 4
+LF
+3.11.9 ('conda': conda)
+Go Live
+90L 61
+0 4 0
+'A" 0
+승 Live Share
+UTF-8
+Python
+Prettier'
